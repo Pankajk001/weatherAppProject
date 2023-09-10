@@ -1,6 +1,4 @@
-Certainly! Here's a README file for your Weather App project:
 
-```markdown
 # Indian Weather App
 
 ## Description
