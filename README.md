@@ -19,13 +19,13 @@ To use the Indian Weather App:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/indian-weather-app.git
+   git clone https://github.com/yourusername/weatherAppProjct.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd indian-weather-app
+   cd weatherAppProjct
    ```
 
 3. Open the `index.html` file in your web browser.
