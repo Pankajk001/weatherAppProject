@@ -1,5 +1,5 @@
 
-# Indian Weather App
+# Weather App
 
 ## Description
 
